@@ -25,8 +25,8 @@ v                                                |
 |                                       | 5. Almacena con Timestamp
 |                                       v
 +                               +-------+--------+
-|  TSDB (Disco)  |
-+----------------+
+                                |  TSDB (Disco)  |
+                                +----------------+
 ```
 
 
